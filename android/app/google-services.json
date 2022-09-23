@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "195268774915",
+    "project_id": "noteitright",
+    "storage_bucket": "noteitright.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195268774915:android:1353322eb7b82e720d9236",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195268774915-t5f0jhbscl48buoah2pqc3cr1lmdh99j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notes_app",
+            "certificate_hash": "3114181ea463e91e72172d24d9c159d80db93efc"
+          }
+        },
+        {
+          "client_id": "195268774915-p0d6gd3l6f53he3nig8ki073ns1u60if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDVZMgZ8hpKg8EZO34Kg8cqqR0evkr9zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195268774915-p0d6gd3l6f53he3nig8ki073ns1u60if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
